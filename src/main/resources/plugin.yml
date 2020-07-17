@@ -1,0 +1,10 @@
+name: Teleporter
+version: ${project.version}
+main: pl.milygosc.teleporter.Teleporter
+api-version: 1.16
+authors: [MilyGosc]
+description: Adds teleport item which allows players to teleport to each other
+commands:
+  teleporter:
+    description: Show teleporter crafting recipe
+    usage: /teleporter recipe
